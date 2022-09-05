@@ -1,0 +1,11 @@
+# Tetris
+- [x] Figure out a way to display unity games in NextJS web app.
+- [ ] Create figma spec for Tetris.
+- [ ] Set movement limits between game area of width: 10 units, height: 20 units with every keystroke.
+- [ ] Move square horizontally by 1 unit within the game area.
+- [ ] Drop square to the bottom on space bar press.
+- [ ] Create 7 tetrominoes from single square programmatically with unique colors
+- [ ] Add rotation mechanic
+- [ ] Create scoreboard and keep score
+- [ ] Display next randomly generated piece
+- [ ] Add sound
