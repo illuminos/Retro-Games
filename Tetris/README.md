@@ -3,9 +3,10 @@
 - [ ] Create figma spec for Tetris.
 - [ ] Set movement limits between game area of width: 10 units, height: 20 units with every keystroke.
 - [ ] Move square horizontally by 1 unit within the game area.
+- [ ] Move square down vertically by 1 unit with every passing second.
 - [ ] Drop square to the bottom on space bar press.
-- [ ] Create 7 tetrominoes from single square programmatically with unique colors
-- [ ] Add rotation mechanic
-- [ ] Create scoreboard and keep score
-- [ ] Display next randomly generated piece
-- [ ] Add sound
+- [ ] Create 7 tetrominoes from single square programmatically with unique colors.
+- [ ] Add rotation mechanic.
+- [ ] Create scoreboard and keep score.
+- [ ] Display next randomly generated piece.
+- [ ] Add sound.
