@@ -1,6 +1,6 @@
 # Tetris [WIP]
 
-<img width="1028" alt="CleanShot 2022-09-06 at 10 30 11@2x" src="https://user-images.githubusercontent.com/8043780/188701515-ef724c23-b0da-4367-870d-a8771a466a59.png">
+<img width="1028" alt="CleanShot 2022-09-06 at 10 30 11@2x" src="https://user-images.githubusercontent.com/8043780/202350642-3763528e-29e6-4414-aa38-1f1263ae66b0.png">
 
 - [x] Figure out a way to display unity games in NextJS web app.
 - [x] Create figma spec for Tetris.
